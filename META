@@ -1,0 +1,4 @@
+name = "utf8conv"
+description = "Conversion from ISO-9959-1/Windows-1252 to UTF-8"
+archive(byte) = "utf8conv.cma"
+archive(native) = "utf8conv.cmxa"
