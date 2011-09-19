@@ -1,0 +1,8 @@
+Standard installation using make and ocamlfind:
+
+  $ make
+  $ make install
+
+Uninstall if/when needed:
+
+  $ make uninstall
